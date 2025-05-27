@@ -85,6 +85,9 @@ Understand how features like **age**, **gender**, **passenger class**, and **emb
 - Low correlation across other features.
 
 ## 🧮 5. Pairplot (Feature Interactions)
+
+![image](https://github.com/user-attachments/assets/325a9be6-af9b-4499-978a-34478ef6662c)
+
 - Shows survival clustering by `Fare`, `Pclass`, and `Age`.
 - Higher survival in higher fare and lower class numbers.
 
